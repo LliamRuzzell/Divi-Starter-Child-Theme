@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/LliamRuzzell/Divi-Child-Theme.svg?branch=master)](https://travis-ci.org/LliamRuzzell/Divi-Child-Theme)
+[![Build Status](https://travis-ci.org/LliamRuzzell/Divi-Starter-Child-Theme.svg?branch=master)](https://travis-ci.org/LliamRuzzell/Divi-Starter-Child-Theme)
 
 Divi Child Theme
 ===
