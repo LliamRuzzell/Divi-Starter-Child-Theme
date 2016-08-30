@@ -29,5 +29,5 @@ function dct_enqueue() {
 
 add_action( 'wp_enqueue_scripts', 'dct_enqueue' );
 
-// Add Editor Style
+// Add Editor Style.
 add_editor_style();
